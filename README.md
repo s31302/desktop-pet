@@ -11,4 +11,4 @@
 Jeśli chcesz, żeby zwierzak budził się razem z komputerem:
 * Wypakuj pobrany folder.
 * Kliknij dwukrotnie plik `dodaj-auto-start.ps1`.
-* Skrypt doda skrót do folderu 'Autostart'
+* Skrypt doda skrót do folderu `Autostart`.
