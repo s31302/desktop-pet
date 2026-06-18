@@ -1,6 +1,6 @@
 # 🐾 Desktop Pet
 
-## 🚀 Jak pobrać?
+### 🚀 Jak pobrać?
 
 1. Przejdź do zakładki **Releases** (po prawej stronie repozytorium).
 2. Pobierz najnowszy plik `desktop-pet-v1.zip`.
