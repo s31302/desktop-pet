@@ -10,5 +10,5 @@
 ### ⚙️ Automatyczne włączanie z systemem
 Jeśli chcesz, żeby zwierzak budził się razem z komputerem:
 * Wypakuj pobrany folder.
-* Kliknij prawym przyciskiem myszy na plik `Dodaj_do_Autostartu.ps1`.
+* Kliknij prawym przyciskiem myszy na plik `dodaj-auto-start.ps1`.
 * Wybierz opcję **Uruchom w programie PowerShell**
